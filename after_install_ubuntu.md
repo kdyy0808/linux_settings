@@ -37,6 +37,43 @@ $ sudo reboot
 wget https://download.teamviewer.com/download/linux/teamviewer_amd64.deb   
 sudo apt install ./teamviewer_amd64.deb   
 
+## teamviewer 자동실행
+1. 서비스를 실행 할 스크립트 작성.
+
+  - 위치 : /etc/init.d/[사용자 실행스크립트 생성]
+
+  ex : /etc/init.d/auto_run.sh
+
+  - 자동 실행 등록을 하면 해당 스크립트가 실행되어 서비스를 띄우게 된다.
+
+
+
+2. 권한 부여
+
+  - chmod 777 /etc/init.d/[실행 스크립트이름]
+
+  - ex : chmod 777 /etc/init.d/auto_run.sh
+
+
+
+3. 서비스 등록
+
+  - update-rc.d [실행 스크립트 이름] defaults
+
+  ex : update-rc.d auto_run.sh defaults
+
+  
+
+  defaults : runlevel 3, 5
+
+
+
+4. 확인 
+
+  - 재부팅하여 서비스 확인
+
+https://sbgg.tistory.com/28
+
 
 # 한글 입력기 설치
 https://greedywyatt.tistory.com/105
