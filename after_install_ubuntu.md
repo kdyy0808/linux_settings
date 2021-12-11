@@ -1,4 +1,4 @@
-학교 네트워크 설정
+# 학교 네트워크 설정
 
 cd /etc/netplan/
 
@@ -23,10 +23,16 @@ sudo netplan apply
 
 
 
-그래픽카드 잡기
+# 그래픽카드 잡기
 
 
 $ sudo add-apt-repository ppa:graphics-drivers/ppa
 $ sudo apt update
 $ sudo ubuntu-drivers autoinstall
 $ sudo reboot
+
+
+# teamviewer 설치  
+
+wget https://download.teamviewer.com/download/linux/teamviewer_amd64.deb   
+sudo apt install ./teamviewer_amd64.deb   
