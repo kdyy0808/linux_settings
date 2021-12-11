@@ -4,8 +4,8 @@ cd /etc/netplan/
 
 거기 파일 하나 있는거 편집
 
-sudo gedit 하고 tab으로 파일이름 자동완성 후 엔터
-
+sudo gedit 하고 tab으로 파일이름 자동완성 후 엔터.   
+![44](https://user-images.githubusercontent.com/40755420/145689717-8ea0c46e-958f-42fa-813a-5aeb02a3a658.png)
 
 
 
@@ -26,4 +26,7 @@ sudo netplan apply
 그래픽카드 잡기
 
 
-
+$ sudo add-apt-repository ppa:graphics-drivers/ppa
+$ sudo apt update
+$ sudo ubuntu-drivers autoinstall
+$ sudo reboot
