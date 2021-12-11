@@ -79,5 +79,5 @@ https://sbgg.tistory.com/28
 https://greedywyatt.tistory.com/105
 
 
-#terminator 설치
+# terminator 설치  
 sudo apt-get install terminator
