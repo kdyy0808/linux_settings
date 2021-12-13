@@ -26,10 +26,10 @@ sudo netplan apply
 # 그래픽카드 잡기
 
 
-$ sudo add-apt-repository ppa:graphics-drivers/ppa
-$ sudo apt update
-$ sudo ubuntu-drivers autoinstall
-$ sudo reboot
+$ sudo add-apt-repository ppa:graphics-drivers/ppa  
+$ sudo apt update  
+$ sudo ubuntu-drivers autoinstall  
+$ sudo reboot  
 
 
 # teamviewer 설치  
