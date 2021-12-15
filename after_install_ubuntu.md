@@ -37,6 +37,9 @@ $ sudo reboot
 wget https://download.teamviewer.com/download/linux/teamviewer_amd64.deb   
 sudo apt install ./teamviewer_amd64.deb   
 
+20.04 는 아래 링크글 보고 따라하기
+https://www.bddungsblog.com/2021/02/ubuntu-2004-how-to-install-teamviewer.html
+
 ## teamviewer 자동실행
 1. 서비스를 실행 할 스크립트 작성.
 
