@@ -84,3 +84,6 @@ https://greedywyatt.tistory.com/105
 
 # terminator 설치  
 sudo apt-get install terminator
+
+# 아나콘다 설치  
+https://ieworld.tistory.com/12
