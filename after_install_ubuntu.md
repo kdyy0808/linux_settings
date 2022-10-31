@@ -19,6 +19,9 @@ sudo netplan apply
 
 오류는 보통 스페이스바 갯수차이 잘 보고 할 것
 
+# 서버 변경
+  
+https://ieworld.tistory.com/8
 
 
 
