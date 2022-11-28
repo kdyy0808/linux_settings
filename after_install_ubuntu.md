@@ -32,6 +32,33 @@ $ sudo apt update
 $ sudo ubuntu-drivers autoinstall  
 $ sudo reboot~~  
 
+설치가능 드라이버 확인 
+```
+ubuntu-drivers devices
+```
+
+자동으로 설치
+```
+sudo ubuntu-drivers autoinstall
+```
+
+원하는 버전 설치
+```
+sudo apt install nvidia-driver-470
+```  
+Nvidia kernel module load 도와주는 modprobe 패키지 설치
+```
+sudo apt-get install dkms nvidia-modprobe
+```
+
+마무리
+```
+sudo apt update
+sudo apt upgrade
+
+sudo reboot
+```
+출처 : https://ingu627.github.io/tips/install_cuda_linux/  
 
 # teamviewer 설치  
 
