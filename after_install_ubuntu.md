@@ -110,7 +110,7 @@ https://sbgg.tistory.com/28
 https://greedywyatt.tistory.com/105  
 https://shanepark.tistory.com/231
 
-#글카 설치후 인터넷 안될때
+# 글카 설치후 인터넷 안될때   
 https://velog.io/@sim0297/ubuntu-nvidia-driver-%EC%84%A4%EC%B9%98-%EC%8B%9C-%EB%9E%9C%EC%B9%B4%EB%93%9C-%EC%9D%B8%EC%8B%9D%EC%95%88%EB%90%98%EB%8A%94-%EC%98%A4%EB%A5%98
 
 # terminator 설치  
