@@ -21,7 +21,12 @@ sudo netplan apply
 
 # 서버 변경
   
-https://ieworld.tistory.com/8
+https://ieworld.tistory.com/8  
+https://osg.kr/archives/604  
+```
+:%s/kr.archive.ubuntu.com/mirror.kakao.com
+!wq
+```
 
 
 # 그래픽카드 잡기
