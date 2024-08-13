@@ -13,3 +13,6 @@ https://whale.naver.com/ko/
 # 네이버 웍스
 https://naver.worksmobile.com/download/
 # Driver Boost
+
+# Notion
+https://www.notion.so/desktop/windows/download
