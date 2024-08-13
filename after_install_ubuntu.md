@@ -24,6 +24,7 @@ sudo netplan apply
 https://ieworld.tistory.com/8  
 https://osg.kr/archives/604  
 ```
+sudo vi /etc/apt/sources.list
 :%s/kr.archive.ubuntu.com/mirror.kakao.com
 !wq
 ```
