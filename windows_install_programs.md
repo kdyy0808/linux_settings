@@ -17,3 +17,6 @@ https://naver.worksmobile.com/download/
 
 # Notion
 https://www.notion.so/desktop/windows/download
+
+# vscode
+https://vscode.download.prss.microsoft.com/dbazure/download/stable/eaa41d57266683296de7d118f574d0c2652e1fc4/VSCodeUserSetup-x64-1.92.1.exe
