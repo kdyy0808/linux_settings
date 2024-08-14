@@ -22,3 +22,6 @@ https://www.notion.so/desktop/windows/download
 https://vscode.download.prss.microsoft.com/dbazure/download/stable/eaa41d57266683296de7d118f574d0c2652e1fc4/VSCodeUserSetup-x64-1.92.1.exe  
 vscode 다운로드 속도 느릴때  
 https://davi06000.tistory.com/11
+
+# NZXT CAM
+https://nzxt.com/software/cam?srsltid=AfmBOorjzzCqS-KToXTtPDjbhuqQULW-UBs-_eiFW63WmqpirgzfyVgX
