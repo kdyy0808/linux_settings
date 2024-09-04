@@ -129,6 +129,10 @@ https://ieworld.tistory.com/12
 # Grub 수정  
 http://programmingskills.net/grub%EC%9D%98-%EB%8C%80%EA%B8%B0-%EC%8B%9C%EA%B0%84-%EA%B8%B0%EB%B3%B8-%EB%B6%80%ED%8C%85-%EC%88%9C%EC%84%9C-%EB%B0%94%EA%BE%B8%EA%B8%B0/
 
+# 검색 툴 fsearch
+https://github.com/cboxdoerfer/fsearch?tab=readme-ov-file
+
+
 
 # Bashrc  
 ```
